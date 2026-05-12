@@ -1,3 +1,5 @@
 this is a test file
 Hello!
-my name is michael
+my name is Michael
+I have made further changes to this document
+the date is the 12th May, more comments being added
